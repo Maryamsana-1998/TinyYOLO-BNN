@@ -7,6 +7,7 @@ The board targeted is ZC706 (Zynq 7z045).
 
 You need an understanding of that repo to run this example successfully.
 
+(Tiny yolo with depthwise separable convolution has been introduced, inorder to have fast inference )
 
 ### Training Algorithm
 
